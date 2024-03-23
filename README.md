@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @hedge-sparrow
-- 👀 I’m interested in: fixing things
+website: https://spooky.academy
+
+other projects: https://codeberg.org/sparrow
